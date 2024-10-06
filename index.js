@@ -52,4 +52,3 @@ function Clothes(Brand, price, color, quantity)
 }
 console.log(mall);
 
-nimra shoaib
